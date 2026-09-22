@@ -1,6 +1,6 @@
 # THỰC HÀNH VẼ BIỂU ĐỒ TUẦN TỰ CHỨC NĂNG ĐĂNG NHẬP RIKKEISHOP
 ## Bước 1: Đọc kịch bản nghiệp vụ
-Trước khi bắt đầu vẽ biểu đồ trình tự thì ta sẽ phân tích qua:
+Trước khi bắt đầu vẽ biểu đồ tuần tự thì ta sẽ phân tích qua:
 
 Đầu tiên, bài có 3 đối tượng gồm khách hàng, màn hình UI, AuthServer
 
